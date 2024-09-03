@@ -1,2 +1,2 @@
-# IS-114
-IS-114 oblig 0
+Eira Bitnes Vikstøl
+MacOS 14.5 (23F79)
